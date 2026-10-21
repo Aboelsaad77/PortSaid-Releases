@@ -1,0 +1,13 @@
+app: media-downloader
+channel: stable
+version: 2.3.2
+files:
+  - url: https://github.com/Aboelsaad77/PortSaid-Releases/releases/download/v2.3.2/PortSaid-Media-Downloader-Update-2.3.2.exe
+    sha512: VY3K3seR0SdqMOu9+NFY3PVUxVNOqfFmCgvFnB+LeUPAQMjVncnCEpvP8c3MQ4s6u8YJVBbQTu6Fo+11gNmesA==
+    sha256: 1acbcb0306ac9b57f1471b4f281ebf3d150a0dc2c17c34a6b62302ba6e5aa212
+    size: 156489999
+path: PortSaid-Media-Downloader-Update-2.3.2.exe
+sha512: VY3K3seR0SdqMOu9+NFY3PVUxVNOqfFmCgvFnB+LeUPAQMjVncnCEpvP8c3MQ4s6u8YJVBbQTu6Fo+11gNmesA==
+sha256: 1acbcb0306ac9b57f1471b4f281ebf3d150a0dc2c17c34a6b62302ba6e5aa212
+size: 156489999
+releaseDate: '2026-10-21T13:49:42.947Z'
