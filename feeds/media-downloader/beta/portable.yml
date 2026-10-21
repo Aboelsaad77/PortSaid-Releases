@@ -1,0 +1,12 @@
+app: media-downloader
+channel: beta
+version: 2.3.2
+files:
+  - url: https://github.com/Aboelsaad77/PortSaid-Releases/releases/download/v2.3.2/PortSaid-Media-Downloader-Portable-2.3.2.zip
+    sha512: 1YlhS0K17uazWTyBzAMEeAF3fOdZ8MQYTyd8SeBmgz17q5J9fgNGn2VccAu0bw+A9f1TCd4LAoyjCBl4K4lmBQ==
+    sha256: fe5a50fc1bdec59edf81ab412a398f11deb97850751fc16686bdeecc28546d71
+    size: 216527840
+path: PortSaid-Media-Downloader-Portable-2.3.2.zip
+sha512: 1YlhS0K17uazWTyBzAMEeAF3fOdZ8MQYTyd8SeBmgz17q5J9fgNGn2VccAu0bw+A9f1TCd4LAoyjCBl4K4lmBQ==
+sha256: fe5a50fc1bdec59edf81ab412a398f11deb97850751fc16686bdeecc28546d71
+size: 216527840
