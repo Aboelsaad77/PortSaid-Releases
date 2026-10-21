@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "version": "1.0.23",
+  "channel": "stable",
+  "release_date": "2026-10-21T14:35:13.687Z",
+  "architecture": "x64",
+  "artifact_filename": "SmartCleaner-Update-1.0.23.exe",
+  "artifact_size": 83755615,
+  "sha256": "5e230f117722d265330d1b180b403e2b5115d8a81e73471dd5e6e1137e665bfe",
+  "sha512": "9f2651ce68c19e879cf646451815760bd79e70464da1a6d56c8bb10a39ff9b66dbcafa4f20abe9827dda69a22c174326c6a268eba157544954a3f999afe39267",
+  "download_url": "https://github.com/Aboelsaad77/PortSaid-Releases/releases/download/v1.0.23/SmartCleaner-Update-1.0.23.exe",
+  "kid": "smartcleaner-release-2026-1",
+  "signature": "nQ7qMmkZn7Df4KhNfbgt2mIF9ytP/ZMfsdGLSJkjqVNPRyOUcQHsz6d2YIsllVq0aJAVq3yNW0b0nsTf3ZOUAQ=="
+}
