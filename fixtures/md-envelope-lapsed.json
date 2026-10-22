@@ -1,0 +1,48 @@
+{
+ "envelope": {
+  "payload": {
+   "iss": "portsaid-media-downloader",
+   "sub": "1",
+   "email": "md-client@example.test",
+   "name": "Client Acceptance",
+   "plan": "free",
+   "status": "expired",
+   "features": {
+    "unlimited_queue": false,
+    "playlist_downloads": true,
+    "advanced_formats": false,
+    "concurrent_downloads": false,
+    "premium_themes": false,
+    "advanced_platform_settings": false,
+    "offline_grace": true
+   },
+   "limits": {
+    "max_concurrent_downloads": 1,
+    "max_queue_size": 10,
+    "max_playlist_items": 15,
+    "history_days": 30,
+    "max_speed_bytes": 1000000,
+    "max_video_quality": 720,
+    "max_devices": 3
+   },
+   "trial_used": false,
+   "trial_expires_at": null,
+   "trial_remaining_seconds": 0,
+   "expires_at": "2026-10-21T21:25:15.898160Z",
+   "iat": 1792704315,
+   "exp": 1792790715,
+   "liveness_until": 1792963515,
+   "offline_grace_hours": 72,
+   "installation_id": "win-acceptance-inst",
+   "device_id": null,
+   "product": "media-downloader",
+   "kid": "76540635029007df",
+   "alg": "EdDSA"
+  },
+  "kid": "76540635029007df",
+  "alg": "EdDSA",
+  "sig": "on31eVX4ojYJAJljZeTHupztFs6wS8pzeo3WW8TOupzCA32Qz1WDWHKSd3Rq-AYvFT4br6gk9IcWAIdC2TVgAw",
+  "signed_payload": "eyJhbGciOiJFZERTQSIsImRldmljZV9pZCI6bnVsbCwiZW1haWwiOiJtZC1jbGllbnRAZXhhbXBsZS50ZXN0IiwiZXhwIjoxNzkyNzkwNzE1LCJleHBpcmVzX2F0IjoiMjAyNi0xMC0yMVQyMToyNToxNS44OTgxNjBaIiwiZmVhdHVyZXMiOnsiYWR2YW5jZWRfZm9ybWF0cyI6ZmFsc2UsImFkdmFuY2VkX3BsYXRmb3JtX3NldHRpbmdzIjpmYWxzZSwiY29uY3VycmVudF9kb3dubG9hZHMiOmZhbHNlLCJvZmZsaW5lX2dyYWNlIjp0cnVlLCJwbGF5bGlzdF9kb3dubG9hZHMiOnRydWUsInByZW1pdW1fdGhlbWVzIjpmYWxzZSwidW5saW1pdGVkX3F1ZXVlIjpmYWxzZX0sImlhdCI6MTc5MjcwNDMxNSwiaW5zdGFsbGF0aW9uX2lkIjoid2luLWFjY2VwdGFuY2UtaW5zdCIsImlzcyI6InBvcnRzYWlkLW1lZGlhLWRvd25sb2FkZXIiLCJraWQiOiI3NjU0MDYzNTAyOTAwN2RmIiwibGltaXRzIjp7Imhpc3RvcnlfZGF5cyI6MzAsIm1heF9jb25jdXJyZW50X2Rvd25sb2FkcyI6MSwibWF4X2RldmljZXMiOjMsIm1heF9wbGF5bGlzdF9pdGVtcyI6MTUsIm1heF9xdWV1ZV9zaXplIjoxMCwibWF4X3NwZWVkX2J5dGVzIjoxMDAwMDAwLCJtYXhfdmlkZW9fcXVhbGl0eSI6NzIwfSwibGl2ZW5lc3NfdW50aWwiOjE3OTI5NjM1MTUsIm5hbWUiOiJDbGllbnQgQWNjZXB0YW5jZSIsIm9mZmxpbmVfZ3JhY2VfaG91cnMiOjcyLCJwbGFuIjoiZnJlZSIsInByb2R1Y3QiOiJtZWRpYS1kb3dubG9hZGVyIiwic3RhdHVzIjoiZXhwaXJlZCIsInN1YiI6IjEiLCJ0cmlhbF9leHBpcmVzX2F0IjpudWxsLCJ0cmlhbF9yZW1haW5pbmdfc2Vjb25kcyI6MCwidHJpYWxfdXNlZCI6ZmFsc2V9"
+ },
+ "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAQqnpBrG7ZrXdipA2PGSh3hTRIZI6XqAZMDIEy3fXxy4=\n-----END PUBLIC KEY-----\n"
+}
